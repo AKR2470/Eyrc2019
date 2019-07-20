@@ -8,6 +8,8 @@ An Ant collects and provides food for not just itself but also its community whi
 The tasks to be done by the AB across the arena are the same as the first ant i.e. collecting leaves, honey, wood from the Shrubs Area (SA) and store for winter and/or remove trash from its Ant Hills (AH). One of the Ant Hill, the Queen Ant’s Hill (QAH) is always given preferential treatment while doing the service. 
 
 ### *The challenges in this theme include Line Following using a sensor, colour image processing and AH detection and service assessment using a Camera; in addition to these there is also a pick and place mechanism.*
-## The Arena
+### The Arena
 ![Theme](https://github.com/AKR2470/Eyrc2019/blob/master/Images/Arena.PNG)
-## Final Submission video - https://youtu.be/FhUvQlrLWxc?t=120
+### Final Submission video - https://youtu.be/FhUvQlrLWxc?t=120
+### Line Follower Algorithm using Finite State Machine - 
+### Poster Presentation - Chascon 2019 - https://docs.google.com/presentation/d/1wwKB7wBF1E0edE1Nz6hV180tnOW2SS3SZyQYA_FoYmI/edit?usp=sharing
